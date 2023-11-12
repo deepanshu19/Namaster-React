@@ -13,11 +13,11 @@
 69F:\Namaste React\node_modules\@parcel\utils\src\relativeBundlePath.js121436361000000000 0
 57F:\Namaste React\node_modules\@parcel\events\lib\index.js121436361000000000 0
 71F:\Namaste React\node_modules\scheduler\umd\scheduler.production.min.js121436361000000000 0
-29F:\Namaste React\package.json133441879639392924 0
+29F:\Namaste React\package.json133442438711272207 0
 61F:\Namaste React\node_modules\caniuse-lite\data\regions\FM.js121436361000000000 0
 50F:\Namaste React\node_modules\semver\bin\semver.js121436361000000000 0
 44F:\Namaste React\node_modules\domelementtype133441850488771425 1
-21F:\Namaste React\dist133441888563530273 1
+21F:\Namaste React\dist133442467633278688 1
 55F:\Namaste React\node_modules\ordered-binary\index.d.ts121436361000000000 0
 70F:\Namaste React\node_modules\node-gyp-build-optional-packages\LICENSE121436361000000000 0
 34F:\Namaste React\node_modules\csso133441850543527959 1
@@ -40,7 +40,7 @@
 34F:\Namaste React\node_modules\svgo133441850543527959 1
 56F:\Namaste React\node_modules\csso\lib\replace\Atrule.js121436361000000000 0
 42F:\Namaste React\node_modules\mdn-data\css133441850289279814 1
-27F:\Namaste React\index.html133441885139693201 0
+27F:\Namaste React\index.html133442467659429794 0
 57F:\Namaste React\node_modules\@parcel\workers\src\process133441850265249573 1
 59F:\Namaste React\node_modules\update-browserslist-db\cli.js121436361000000000 0
 38F:\Namaste React\node_modules\lmdb\src133441850315659076 1
@@ -662,6 +662,7 @@
 56F:\Namaste React\node_modules\source-map\source-map.d.ts131369414910000000 0
 79F:\Namaste React\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs121436361000000000 0
 51F:\Namaste React\node_modules\@parcel\utils\LICENSE121436361000000000 0
+44F:\Namaste React\dist\index.96f0bad0.css.map133442439087305894 0
 57F:\Namaste React\node_modules\type-fest\source\merge.d.ts121436361000000000 0
 61F:\Namaste React\node_modules\caniuse-lite\data\regions\TN.js121436361000000000 0
 69F:\Namaste React\node_modules\type-fest\source\async-return-type.d.ts121436361000000000 0
@@ -762,7 +763,6 @@
 77F:\Namaste React\node_modules\react\cjs\react.shared-subset.production.min.js121436361000000000 0
 51F:\Namaste React\node_modules\react-refresh\LICENSE121436361000000000 0
 51F:\Namaste React\node_modules\svgo\lib\css-tools.js121436361000000000 0
-51F:\Namaste React\dist\Namaste React.3464ddca.js.map133441882178507486 0
 71F:\Namaste React\node_modules\type-fest\source\require-exactly-one.d.ts121436361000000000 0
 54F:\Namaste React\node_modules\safe-buffer\package.json133441850529404057 0
 64F:\Namaste React\node_modules\type-fest\source\set-optional.d.ts121436361000000000 0
@@ -939,7 +939,7 @@
 60F:\Namaste React\node_modules\commander\package-support.json121436361000000000 0
 55F:\Namaste React\node_modules\svgo\plugins\prefixIds.js121436361000000000 0
 75F:\Namaste React\node_modules\caniuse-lite\data\features\rest-parameters.js121436361000000000 0
-40F:\Namaste React\dist\index.9e4c6fd2.css133441888563490298 0
+40F:\Namaste React\dist\index.9e4c6fd2.css133442461106077455 0
 67F:\Namaste React\node_modules\@parcel\core\lib\public\Dependency.js121436361000000000 0
 74F:\Namaste React\node_modules\caniuse-lite\data\features\css-exclusions.js121436361000000000 0
 57F:\Namaste React\node_modules\svgo\plugins\mergeStyles.js121436361000000000 0
@@ -1223,6 +1223,7 @@
 54F:\Namaste React\node_modules\semver\functions\sort.js121436361000000000 0
 61F:\Namaste React\node_modules\@swc\helpers\_\_async_generator133441850316460073 1
 55F:\Namaste React\node_modules\semver\functions\valid.js121436361000000000 0
+40F:\Namaste React\dist\index.96f0bad0.css133442443098693677 0
 84F:\Namaste React\node_modules\react-refresh\cjs\react-refresh-runtime.development.js121436361000000000 0
 49F:\Namaste React\node_modules\msgpackr\pack.d.cts121436361000000000 0
 59F:\Namaste React\node_modules\@parcel\optimizer-swc\LICENSE121436361000000000 0
@@ -1503,7 +1504,7 @@
 79F:\Namaste React\node_modules\@swc\helpers\src\_possible_constructor_return.mjs121436361000000000 0
 43F:\Namaste React\node_modules\msgpackr\dist133441850303559282 1
 56F:\Namaste React\node_modules\lightningcss\node\ast.d.ts121436361000000000 0
-43F:\Namaste React\dist\index.7826abd7.js.map133441888562083857 0
+43F:\Namaste React\dist\index.7826abd7.js.map133442467633228694 0
 50F:\Namaste React\node_modules\picocolors\README.md121436361000000000 0
 54F:\Namaste React\node_modules\@parcel\packager-css\src133441850224519465 1
 49F:\Namaste React\node_modules\js-yaml\lib\type.js121436361000000000 0
@@ -2219,7 +2220,7 @@
 57F:\Namaste React\node_modules\@parcel\transformer-svg\src133441850221073330 1
 91F:\Namaste React\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js121436361000000000 0
 87F:\Namaste React\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md121436361000000000 0
-32F:\Namaste React\dist\index.html133441888561773225 0
+32F:\Namaste React\dist\index.html133442461106077455 0
 61F:\Namaste React\node_modules\caniuse-lite\data\regions\QA.js121436361000000000 0
 68F:\Namaste React\node_modules\caniuse-lite\data\features\fontface.js121436361000000000 0
 90F:\Namaste React\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md121436361000000000 0
@@ -4453,7 +4454,7 @@
 51F:\Namaste React\node_modules\.bin\browserslist.cmd133441850554971372 0
 51F:\Namaste React\node_modules\.bin\browserslist.ps1133441850554971372 0
 50F:\Namaste React\node_modules\.bin\detect-libc.ps1133441850554221203 0
-44F:\Namaste React\dist\index.9e4c6fd2.css.map133441888563530273 0
+44F:\Namaste React\dist\index.9e4c6fd2.css.map133442461106223083 0
 58F:\Namaste React\node_modules\.bin\download-lmdb-prebuilds133441850555021208 0
 62F:\Namaste React\node_modules\.bin\download-msgpackr-prebuilds133441850554571202 0
 66F:\Namaste React\node_modules\.bin\download-msgpackr-prebuilds.cmd133441850554571202 0
@@ -4481,7 +4482,6 @@
 43F:\Namaste React\node_modules\.bin\svgo.ps1133441850554821187 0
 61F:\Namaste React\node_modules\.bin\update-browserslist-db.cmd133441850554921216 0
 61F:\Namaste React\node_modules\.bin\update-browserslist-db.ps1133441850554921216 0
-39F:\Namaste React\dist\index.6bd02f5a.js133441882178347466 0
-43F:\Namaste React\dist\index.6bd02f5a.js.map133441882178507486 0
-39F:\Namaste React\dist\index.7826abd7.js133441888561933889 0
-47F:\Namaste React\dist\Namaste React.3464ddca.js133441882178347466 0
+39F:\Namaste React\dist\index.7826abd7.js133442467633128745 0
+39F:\Namaste React\dist\index.a42662a1.js133442439087081070 0
+43F:\Namaste React\dist\index.a42662a1.js.map133442439087549486 0
